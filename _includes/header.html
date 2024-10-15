@@ -1,0 +1,11 @@
+
+<div class="menu">
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+    <nav class="nav-menu">
+        
+        {% for item in site.data.menu %}
+            {% assign page_url_without_html = page.url | remove: ".html" %}
+            <a class="btn {% if page_url_without_html == item.url %} active {% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+        {% endfor %}
+    </nav>
+</div>

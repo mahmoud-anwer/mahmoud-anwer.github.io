@@ -1,0 +1,14 @@
+- name: Oracle Cloud Infrastrucre 2023 Certified DevOps Professional
+  img: /assets/images/oci-devops.png
+
+- name: AWS Certified Cloud Practitioner
+  img: /assets/images/aws-cp.png
+
+- name: EC-Council Certified Ethical Hacker
+  img: /assets/images/ceh.png
+
+- name: EC-Council Certified Security Analyst
+  img: /assets/images/ecsa.png
+
+- name: EC-Council Certified Network Defender
+  img: /assets/images/cnd.png
