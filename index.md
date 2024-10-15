@@ -11,9 +11,9 @@ layout: default
       <a href="https://www.linkedin.com/in/your-username" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" />
       </a>
-      <a href="https://github.com/your-username" target="_blank">
+      <!-- <a href="https://github.com/your-username" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/medium.png" alt="Medium" />
-      </a>
+      </a> -->
       <a href="https://github.com/your-username" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" />
       </a>
