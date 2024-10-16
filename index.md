@@ -6,7 +6,7 @@ layout: default
   <div class="profile-info">
     <img src="assets/images/profile.jpg" alt="Profile Picture" class="circular-image" />
     <h1 class="title"></h1>
-    <p>Working at <a class="no-underline" href="https://squadio.com/">Squadio</a> as a {{site.position}}.</p>
+    <p>Working at <a class="no-underline" href="https://squadio.com/" target="_blank">Squadio</a> as a {{site.position}}.</p>
     <div class="social-links">
       <a href="https://www.linkedin.com/in/mahmoud-anwer-842539114/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" />
